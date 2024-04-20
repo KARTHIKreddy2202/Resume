@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, sans-serif;
+}
+.RB{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 5px solid hsl(223, 66%, 37%);
+    border-radius: 5px;
+}
+H1,h5{
+    text-align: center;
+}
+.Education{
+   border-collapse: collapse;
+}
+th,td,tr{
+    border: 2px black solid;
+    text-align: center;
+    padding: 10px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.sign{
+    text-align: right;
+}
